@@ -21,28 +21,28 @@
 Кто является самым ненавистным персонажем во вселенной звездных войн?`Jar Jar Binks`Binks`jarjar`jar jar`Джа Джа Бинкс`Бинкс
 Кто сыграл Финна?`John Boyega`Boyega`Джон Бойега`Бойега
 Кто сыграл По Дамерона?`Oscar Isaac`Isaac`Оскар Айзек`Айзек
-WКто создал звездные войныs?`George Lucas`Lucas`Лукас`Джордж Лукас
+Кто создал звездные войныs?`George Lucas`Lucas`Лукас`Джордж Лукас
 Как называлась планета создающая клонов в Эпизод II, Атака клонов?`Kamino`Камино
 Кто озвучил и управлял йодой в оригинальной трологии?`Frank Oz`Фрэнк Оз`Оз
 Кто сыграл Бэна Кеноби?`Sir Alec Guinness`Guinness`Алек Гиннес`Гиннес
 Закончите цитату: Ты не слишком ___ для штурмовика.`высок
 Что было 2187?`Камера Леи
-Who failed Anakin?`Obi Wan Kenobi`Obi Wan`Kenobi
+Кого залажал Энакин?`Obi Wan Kenobi`Obi Wan`Kenobi`Оби Ван
 Закончите цитату: Меня беспокоит ваше ____`неверие 
 Закончите цитату: Ты недооцениваешь мою ___`мощь
 Закончите цитату: Да пребудет с тобой ___.`силы
-Who said "He was too dangerous to be kept alive"?`Palpatine`The Emperor`Mace Windu`Windu
-Who said "Army or not, you must realise you are doomed"?`Grievous`General Grievous
-Finish The Quote: Always 2 there are ______`a master and an apprentice
+Кто сказал "Он слишком опасен, его нельзя оставлять в живых"?`Palpatine`The Emperor`Mace Windu`Windu`Палпатин
+Кто сказал "С армией или нет, вы должни понять, вы... обречены"?`Grievous`General Grievous`Гривус`Генерал Гривус
+Закончите цитату: Всегда есть двое ______`учитель и ученик
 Сколько строк диалогов было у Люка в Пробуждении Силы?`ноль`nada`zero`0
 Сколько строк диалогов было у Боба Фетта во всех фильмах`18`восемнадцать
-True or False: Darth Vader was born on the same day as Luke and Leia.`True
+Правда или ложь: Дарт Вейдер родился в один день вместе с Леей и Люком.`True`Правда
 Закончите цитату:Я люблю тебя. ____.`Я знаю
 Какая система была взорвана базой старкиллера?`The Hosnian System`Hosnian`система Хосниан`Хосниан`Хосниан-прайм
 Какая планета была взорвана Звездой Смерти?`Alderaan`Альдераан
 Кто сказал первую реплику во всей эпопеи?`C-3PO
-What planet did Obi Wan exile himself to?`Tatooine 
-What planet did Yoda exile himself to?`Dagobah
+На какую планету Оби Ван отправился в самоизгнание?`Tatooine`Татуин
+На какую планету Йода отправился в самоизгнание?`Dagobah`Дагоба
 На какой планете располагалась база повстанцев в "Новой надежде"?`Явин 4
 На какой планете располагалась база повстанцев в "Империя наносит ответный удар"?`Хот
 На какой планете располагалась база повстанцев в "Возращение джедаев"?`не на планете
@@ -53,11 +53,11 @@ What planet did Yoda exile himself to?`Dagobah
 Как звали клона сражавшегося бок о бок с Энакином Скайуокером?`Капитан Рекс`Рекс
 Как звали клона сражавшегося бок о бок с Оби-Ваном?`Commander Cody`Cody`Коди
 Кто изначально обучал графа Дуку?`Yoda`Йода
-What was the name of the Sith Assassin in The Clone Wars?`Asajj Ventress`Ventress
+Как звали ситха ассаина в войне клонов?`Asajj Ventress`Ventress`Асаж Вентресс
 Какой приказ указывал клонам убивать всех джедаев?`Order 66`66`Приказ 66
 С какой планеты Падме Амидала?`Набу
 Какая планета имеет два солнца?`Татуин
-What planet was the sight of Obi-Wan's failure of Anakin?`Mustafar
+Какой эпизод вышел раньше всех?`4
 Какое имя ситха было у Императора Палпатина?`Darth Sidious`Sidious`Sid`Дарт Сидиус`Сидиус
 Номер приказа для клонов, для ареста Канцлера?`Order 65`65`Приказ 65
 Имя сына Джанго Фетта?`Бобба
@@ -88,7 +88,7 @@ What is the name of the Anthology Film set to release in December of 2016?`Rogue
 Как много было титулов/имен у Палпатина?`4`four`четыре
 На какой планете Йода нашел Дарт Бейна?`Korriban`Коррибан
 Кто создал правило двух?`Darth Bane`Дарт Бейн
-What other TV show did Mark Hamill guest voice on?`Avatar The last Airbender`ATLA
+Правда или ложь: Фильм по звездным войнам вышел раньше книге?`Ложь
 Сколько строк диалогов было у Дарт Мола в фильмах?`5`five`пять
 Какой расы был Дарт Мол?`Dathomirian Zabrak`Забрак с Датомира`Забрак
 Название корабля Хана Соло?`Millennium Falcon`Falcon`Тысячилетний сокол`Сокол Тысячилетия
@@ -103,8 +103,8 @@ What other TV show did Mark Hamill guest voice on?`Avatar The last Airbender`ATL
 Какое было первоначальное название "Возвращение джедая"?`Revenge of the Jedi`Месть Джедая
 Кто должен был быть вместо графа Дуку как Лорд Ситов?`Jar Jar Binks`Binks`Jar Jar`Джа Джа Бинкс`Бинкс
 Как звали лидера Гунганов?`Boss Nass`Nass`Босс Насс`Насс
-What is JJ Abrams nick name?`Jar Jar Abrams
-Who is Kanan Jarrus' apprentice? `Ezra`Ezra Bridger
+Кочевники живущие на татуине?`Тускены
+Имя второго пилота на корабле Люка во время битвы на Хоте? `Дак
 Какой актер изображал Дарта Вейдера?`David Prowse`Prowse`Дэвид Проуз`Проуз
 Кто исказ Дарта Мола, чтобы спасти его?`Savage Opress`Opress`Опресс`Саваж Опресс
 С какой планеты произошли Мон Каламари?`Mon Cala`Мон Кала
@@ -113,7 +113,7 @@ Who is Kanan Jarrus' apprentice? `Ezra`Ezra Bridger
 Кто подставил Асоку Тано?`Barriss Offee`Баррисс Оффи
 Сколько лезвий было у световых мечей стражи храма джедаев?`two`2`два
 Где проходила казнь Оби Вана, Падме и Энакина?`Petranaki Arena`Арена Петранаки
-Where was Arc Trooper Echo fatally injured and captured to be used against the Republic?`The Citadel
+Кто дотронулся до мертвого животного, оказавшегося капканом?`Чубака
 Какой генерал джедай перешел на темную сторону?`General Krell`Krell`Генерал Крелл`Крелл
 Как назывался отряд клонов в который входили Силач, Шутник, Эхо, Мишень и Пятерня?`Domino`Domino Squad`Отряд Домино`Домино
 Где погибло 3/5 отряда Домино?`Rishi Station`Станция Риши
@@ -125,7 +125,7 @@ Where was Arc Trooper Echo fatally injured and captured to be used against the R
 Кого любил Оби Ван?`Duchess Satine`Герцогиню Сатин
 Сколько штурмовиков попало в главного героя?`1`one`один
 Имя правой руки Джабы?`Bib-Fortuna`Bib Fortuna`Fortuna`Биб Фортуна`Фортуна
-What was the name of the Bounty Hunter sent to the Jedi Temple to steal a holocron in Star Wars: The Clone Wars?`Cad Bane`Cad`Bane
+Кто дал старт гонкам на карах в первом эпизоде?`Джабба Хатт`Джабба`Хатт
 Где началась война клонов?`Geonosis`Геонозис`На Геонозисе
 Кто генерал первого ордена?`General Hux`Hux`Генерал Хакс`Хакс
 Кто играл генерала Хакса?`Domhnall Gleeson`Gleeson`Донал Глисон`Глисон
@@ -136,9 +136,8 @@ What was the name of the Bounty Hunter sent to the Jedi Temple to steal a holocr
 Кто такой Кайло Рен?`Ben Solo`Бэн Соло
 Кто играл молодого Энакина Скайуокера в Скрытой угрозе?`Jake Lloyd`Lloyd`Джейк Ллойд`Ллойд
 Кто играл Энакина Скайуокера в Атаке клонов и Мести Ситхов?`Hayden Christensen`Christensen`Хейден Кристенсен`Кристенсен
-What was the name of General Grievous' Superweapon in Star Wars: The Clone Wars?`Malevolence
+Как называлось супероружие генерала Гривуса?`Malevolence`Злоба
 Кто был моделью для солдат клонов?`Jango Fett`Джанго Фетт
-What was the name of the radical government group on Mandalore?`Deathwatch
 Название бара, где Бэн и Люк встретили Хан Соло?`Mos Eisley`Mos Eisley Cantina`Мос Эйсли
 Название корабля Боба Фетта?`Slave 1
 Название астродроида Энакина Скайуокера?`R2-D2`R2d2`R2 D2
